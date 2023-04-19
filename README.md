@@ -18,4 +18,4 @@ $ conda install pytorch torchvision -c pytorch
 
 ---
 ## CASE
-[MVTEC-CAPSULE](docs/mvtec_capsule.md)
+[MVTEC-CAPSULE](ssl/mvtec_capsule.md)
