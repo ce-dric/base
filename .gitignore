@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # mvtec
-mvtec_ad_evaluation/
+ssl/mvtec_ad_evaluation/
