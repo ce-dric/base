@@ -3,6 +3,7 @@
 ### how to install roms
 https://github.com/openai/atari-py#roms
 ```shell
+$ pip install atari_py
 # in case that Roms path with 'C:\Workspace\base\rl\Roms'
 $ python -m atari_py.import_roms C:\Workspace\base\rl\Roms
 ```
